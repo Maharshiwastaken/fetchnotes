@@ -23,3 +23,6 @@ npm-debug.log*
 # OS noise
 .DS_Store
 Thumbs.db
+
+# Release notes (published on the GitHub release page)
+RELEASE_NOTES.md
