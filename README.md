@@ -1,4 +1,4 @@
-# Music Getter
+# Fetchnotes
 
 Interactive CLI: name a song → get matching **and similar** track suggestions → pick one → high-quality MP3 downloaded into `~/Music`.
 
@@ -15,7 +15,7 @@ node cli.js
 ```
 
 ```
-  ♪ MUSIC GETTER  search → suggest → download
+  ♪ Fetchnotes  search → suggest → download
   saves to /home/you/Music
 
   🔎 song name or YouTube URL > bohemian rhapsody
