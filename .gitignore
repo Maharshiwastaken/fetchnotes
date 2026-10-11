@@ -1,0 +1,25 @@
+# Local AI / editor config (contains absolute paths to local models)
+Modelfile
+opencode.jsonc
+
+# Generated scan artifacts — contain personal Spotify listening history
+match-plan.json
+match-report.csv
+bulk-state.json
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Downloaded audio (never commit these)
+*.mp3
+*.m4a
+*.opus
+*.webm
+*.part
+*.jpg
+*.ytdl
+
+# OS noise
+.DS_Store
+Thumbs.db

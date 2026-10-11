@@ -1,0 +1,15 @@
+{
+  "name": "music-getter",
+  "version": "1.0.0",
+  "description": "Interactive CLI: name a song, pick a similar suggestion, download it as a high-quality MP3 into ~/Music.",
+  "bin": {
+    "music-getter": "./cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
